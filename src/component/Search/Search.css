@@ -1,0 +1,24 @@
+img{
+    width: 100px;
+}
+.bg-search{
+    background-image: none;
+    height: 110vh;
+    
+}
+.navbar ul li{
+    padding:5px 30px;
+    text-decoration: none;
+    list-style: none;
+    cursor:pointer;
+}
+.searchUl li{
+    color:black!important;
+}
+.img-short{
+    width: 250px;
+}
+.imgStar{
+    width: 15px;
+}
+ 
